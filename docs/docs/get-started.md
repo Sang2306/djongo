@@ -1,6 +1,6 @@
 ---
 title: Get Started
-permalink: /getting-started/
+permalink: /get-started-old/
 description: "Djongo overcomes common pitfalls of PyMongo programming. It maps python objects to MongoDB documents. Setting up the mapping documents to python objects is easy with Djongo."
 ---
 
@@ -218,4 +218,3 @@ You can contribute to the source code or the documentation by creating a simple 
  
 Please contribute to the continued development and success of Djongo by [making a donation][support_page].
 
-{% include links %}

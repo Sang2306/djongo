@@ -1,7 +1,7 @@
 # main links
 main:
-   - title: "Get Started"
-     url: /get-started/
+   - title: "Documentation"
+     url: /configure/
    - title: "Support"
      url: /support/
    - title: "Discuss"
@@ -12,10 +12,10 @@ main:
 docs:
   - title: "Usage"
     children:
-    - title: "Get Started"
-      url: /get-started/
-    - title: "Djongo Deep Dive"
-      url: /djongo-deep-dive/
+    - title: "Configure"
+      url: /configure/
+    - title: "Integrating Django"
+      url: /integrating-django-with-mongodb/
   - title: "Djongo Fields"
     children:
     - title: "Embedded Field"
@@ -42,8 +42,8 @@ docs:
       url: /djongonxt-database-transactions/
 #    - title: "Aggregation"
 #      url: /djongonxt-aggregation/
-    - title: "Contact"
-      url: /djongonxt-more-info/
+#    - title: "Contact"
+#      url: /djongonxt-more-info/
   - title: "Get DjongoNxt"
     url: /support/
 
